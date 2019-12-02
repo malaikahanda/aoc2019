@@ -1,0 +1,1 @@
+diminisher x = (x div 3) - 2
